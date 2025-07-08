@@ -1,0 +1,201 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+body{background-color:#FAFAFA;
+		margin-top: 0%;
+		margin-left: 2%;
+		margin-right:2%;
+}
+
+
+.header{text-align:;
+		background-color: black;
+		box-shadow: 5px 5px grey;
+		color: black;
+		font-size: 100%;
+		position: fixed;
+		font-style:oblique;
+		
+		width: 100%;
+height:50px;
+}
+.head{text-align: center;
+		background-color: #7FB77E;
+		box-shadow: 5px 5px black;
+		border;
+		font-size: 1.1em;
+		
+		color: white;
+		width: 100%;
+
+}
+.button {
+  background-color: #808000;
+  border: none;
+  color: white;
+  padding: 0.5% 1%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+		.detail{text-aling:centre;
+	color: #FFB6B6;
+	font-size: 18px;}
+
+#button{background-color:;
+
+    text-align: center;
+    font-size: 13px;
+    padding: auto;
+	   
+}
+
+#myDIV{ height:280%;
+background-color: white;
+		overflow: auto;
+ margin-left: 1%;
+		margin-right:6%;
+		
+	}
+.welcome{
+  font-size: 100%;
+  color: green;
+}
+
+.S1{margin-left:2%;
+  font-size:1em;
+  color: #002B5B;
+}
+
+.button:hover{background-color: #00BCD4;
+				font-size: 15px;
+				min-width: 125px;
+				padding: auto;
+}
+.auther{text-align: center;
+		color: #CD0A0A;
+		font-size:20px;
+		font-style: italic;
+}
+#au4{width:100%;
+
+}
+
+
+
+
+
+.Q1{margin-left:2%;
+  font-size:1em;
+  color:white;
+  text-decoration: underline;
+}
+.sub_Qtns{text-align: center;
+
+  margin-left: 5%;
+      margin-bottom: 0%;
+      font-size:1em;
+      color: #16003B;
+}
+.sub_ans{margin-left: 5%;
+          margin-right: 3%;
+      font-size:1.5em;
+      color:white;
+    }
+
+#button{background-color:;
+
+    text-align: center;
+    font-size: 13px;
+    padding: auto;
+     
+}
+.img{width:95%;
+     height:230%;} 
+
+
+
+@-webkit-keyframes fade {
+  from {opacity: .9} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .9} 
+  to {opacity: 1}
+}
+
+
+
+@media only screen and (max-width: 800px) {
+    #all{
+      margin-left: 2%;
+      margin-right: 10px;
+      margin-top: 10px;
+    }
+
+.header{text-align:;
+		background-color: #F7F6DC;
+		box-shadow: 5px 5px grey;
+		color: black;
+		font-size: 100%;
+		position: fixed;
+		
+		
+		width: 100%;
+
+}
+#myDIV{height: 250px;
+background-color: black;
+		overflow: auto;
+ margin-left: 2%;
+		margin-right: 5%;
+		
+	}
+
+    .sub_Qtns{margin-left: 1%;
+          margin-right: 1%;
+       margin-top:2px;
+      font-size:1.2em;
+      font-style: bold;
+      color: #16003B;
+}
+
+.sub_ans{margin-left: 3%;
+          margin-right: 2%;
+      font-size:1em;
+    font-family: lucida;
+      color: #16003B;
+}
+
+.Q1{margin-left:2%;
+  font-size:1em;
+  color: #16003B;
+  font-family: sarif;
+}
+.img{width:100%;
+     height:70%;} 
+
+.auther{text-align: auto ;
+    color: #FFBD69;
+    font-size:53%;
+    font-style: italic;
+}
+
+.S1{margin-left:2%;
+  font-size:0.9em;
+  color: #002B5B;
+}
+
+.S2{margin-left:2%;
+  font-size:0.9em;
+  color: #D61C4E;
+}
+} 
+
